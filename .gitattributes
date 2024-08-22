@@ -18,3 +18,4 @@ docker-compose.yaml text eol=lf
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
+# Hello world
