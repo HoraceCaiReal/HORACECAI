@@ -1,0 +1,9 @@
+diff a/.gitattributes b/.gitattributes	(rejected hunks)
+@@ -17,4 +17,5 @@
+ 
+ # Denote all files that are truly binary and should not be modified.
+ *.png binary
+-*.jpg binary
+\ No newline at end of file
++*.jpg binary
++# Hello world
